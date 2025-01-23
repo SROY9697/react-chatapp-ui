@@ -7,6 +7,8 @@ This is a frontend implementation of a chat application built using React, where
 Features :-
 Search Conversations: Users can search for conversations based on contact names.
 
+# Hosted URL : react-chatui-ffc4b6.netlify.app
+
 Left Sidebar  :-
 Displays a list of all conversations with contact names and snippets of the last messages.
 "Create Conversation" button opens a pop-up displaying contacts from the provided dummy data.
