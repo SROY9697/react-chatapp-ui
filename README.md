@@ -33,7 +33,6 @@ Start the development server : npm start
 Build the development file : npm run build
 
 
-Hosted Website Link : https://chatappreactproject.netlify.app/#/
 
 Technologies Used :-
 React
